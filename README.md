@@ -1,0 +1,2 @@
+# CustomString
+Custom string implementation
